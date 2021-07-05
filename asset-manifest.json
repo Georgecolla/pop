@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/geoge.rf.gd/static/js/main.d971339c.chunk.js",
+    "main.js.map": "/geoge.rf.gd/static/js/main.d971339c.chunk.js.map",
+    "runtime-main.js": "/geoge.rf.gd/static/js/runtime-main.92b77c86.js",
+    "runtime-main.js.map": "/geoge.rf.gd/static/js/runtime-main.92b77c86.js.map",
+    "static/js/2.edafac04.chunk.js": "/geoge.rf.gd/static/js/2.edafac04.chunk.js",
+    "static/js/2.edafac04.chunk.js.map": "/geoge.rf.gd/static/js/2.edafac04.chunk.js.map",
+    "index.html": "/geoge.rf.gd/index.html",
+    "static/js/2.edafac04.chunk.js.LICENSE.txt": "/geoge.rf.gd/static/js/2.edafac04.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92b77c86.js",
+    "static/js/2.edafac04.chunk.js",
+    "static/js/main.d971339c.chunk.js"
+  ]
+}
